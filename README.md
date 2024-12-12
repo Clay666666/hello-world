@@ -1,3 +1,3 @@
 # hello-world
-first one
+first one;
 guide told me type sth
